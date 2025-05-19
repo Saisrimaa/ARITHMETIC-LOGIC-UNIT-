@@ -56,6 +56,10 @@ The simulation results confirmed that the ALU correctly computed each operation.
 
 This project emphasized modularity, clarity, and extensibility. The ALU is easily extendable to include more operations like XOR, NOR, shifts, or multiplication. It can also be synthesized in an HDL for FPGA or ASIC design.
 
+**OUTPUT** :
+
+![Image](https://github.com/user-attachments/assets/681c4148-a49e-4de6-87f6-0765b89250f7)
+
 Overall, designing this ALU helped reinforce the principles of combinational logic, binary arithmetic, and the structure of computational units in modern processors.
 
 **OUTPUT** :
